@@ -1,0 +1,15 @@
+C:\Users\msfil\Desktop\Final\FinalRabota\bin\Debug\net7.0\FinalRabota.exe
+C:\Users\msfil\Desktop\Final\FinalRabota\bin\Debug\net7.0\FinalRabota.deps.json
+C:\Users\msfil\Desktop\Final\FinalRabota\bin\Debug\net7.0\FinalRabota.runtimeconfig.json
+C:\Users\msfil\Desktop\Final\FinalRabota\bin\Debug\net7.0\FinalRabota.dll
+C:\Users\msfil\Desktop\Final\FinalRabota\bin\Debug\net7.0\FinalRabota.pdb
+C:\Users\msfil\Desktop\Final\FinalRabota\obj\Debug\net7.0\FinalRabota.csproj.AssemblyReference.cache
+C:\Users\msfil\Desktop\Final\FinalRabota\obj\Debug\net7.0\FinalRabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msfil\Desktop\Final\FinalRabota\obj\Debug\net7.0\FinalRabota.AssemblyInfoInputs.cache
+C:\Users\msfil\Desktop\Final\FinalRabota\obj\Debug\net7.0\FinalRabota.AssemblyInfo.cs
+C:\Users\msfil\Desktop\Final\FinalRabota\obj\Debug\net7.0\FinalRabota.csproj.CoreCompileInputs.cache
+C:\Users\msfil\Desktop\Final\FinalRabota\obj\Debug\net7.0\FinalRabota.dll
+C:\Users\msfil\Desktop\Final\FinalRabota\obj\Debug\net7.0\refint\FinalRabota.dll
+C:\Users\msfil\Desktop\Final\FinalRabota\obj\Debug\net7.0\FinalRabota.pdb
+C:\Users\msfil\Desktop\Final\FinalRabota\obj\Debug\net7.0\FinalRabota.genruntimeconfig.cache
+C:\Users\msfil\Desktop\Final\FinalRabota\obj\Debug\net7.0\ref\FinalRabota.dll
