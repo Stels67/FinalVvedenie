@@ -57,4 +57,4 @@ string[] CreateArrayString(int x)
     }
     Console.Clear();
     return array;
-}#
+}
